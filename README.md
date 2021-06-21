@@ -1,2 +1,2 @@
 # International-Yoga-Day
-International Yoga day special
+International Yoga day special.
