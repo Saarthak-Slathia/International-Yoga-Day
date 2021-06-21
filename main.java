@@ -16,3 +16,9 @@ class Event{
   
 }
 
+class main{
+  public static void main(String args[]){
+    Event yoga = new Event(21, "International Yoga Day", "June");
+    yoga.displayData();
+  }
+}
